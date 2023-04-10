@@ -15,6 +15,7 @@ public class JIVI {
         System.out.println(yu - foo+("\tлет"));
     }
 }
+
 //        простите за бардак (─‿‿─)
 
 //        System.out.println("hell");
