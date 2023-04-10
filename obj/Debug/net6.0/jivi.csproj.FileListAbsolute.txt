@@ -1,0 +1,5 @@
+G:\java-jivi\jivi\jivi\obj\Debug\net6.0\jivi.csproj.AssemblyReference.cache
+G:\java-jivi\jivi\jivi\obj\Debug\net6.0\jivi.GeneratedMSBuildEditorConfig.editorconfig
+G:\java-jivi\jivi\jivi\obj\Debug\net6.0\jivi.AssemblyInfoInputs.cache
+G:\java-jivi\jivi\jivi\obj\Debug\net6.0\jivi.AssemblyInfo.cs
+G:\java-jivi\jivi\jivi\obj\Debug\net6.0\jivi.csproj.CoreCompileInputs.cache
